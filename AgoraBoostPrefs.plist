@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Enabled</key>
+    <true/>
+    <key>ForceHDVideo</key>
+    <true/>
+    <key>ForceHQAudio</key>
+    <true/>
+    <key>ForceDualStream</key>
+    <true/>
+    <key>MinWidth</key>
+    <integer>1280</integer>
+    <key>MinHeight</key>
+    <integer>720</integer>
+    <key>MinFrameRate</key>
+    <integer>24</integer>
+    <key>MinBitrateKbps</key>
+    <integer>1500</integer>
+</dict>
+</plist>
